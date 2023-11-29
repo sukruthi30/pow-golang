@@ -57,5 +57,4 @@ curl -X POST -H "Content-Type: application/json" -d "{\"name\": \"75\"}" http://
 
 This will add a new block with data `75` to the blockchain.
 
-## Proof of Block being added after the work is done
-![Proof of Block being added after the work is done](https://github.com/sukruthi30/pow-golang/blob/master/Screenshot%20(69).png)
+
